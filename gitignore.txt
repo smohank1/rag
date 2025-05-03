@@ -1,0 +1,56 @@
+# Model files and directories
+model/
+*.h5
+*.hdf5
+*.keras
+*.pb
+*.pt
+*.pth
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.env
+
+# Flask specific
+instance/
+.webassets-cache
+uploads/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Log files
+logs/
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Cache directories
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
