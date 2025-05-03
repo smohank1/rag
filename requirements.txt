@@ -9,3 +9,4 @@ gdown
 llama-index-vector-stores-chroma
 openai
 flask-cors
+llama-index-embeddings-openai
